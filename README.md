@@ -1,2 +1,107 @@
-# JKDEVWORKZ
-RESUME
+<h1>Hi there, I'm Juphil Kadusale</h1>
+  <h3>Full Stack Developer | AI, Web & Mobile Systems Architect</h3>
+  
+  <p align="center">
+    <img src="https://img.shields.io/badge/Available%20for%20Hire-YES-brightgreen?style=for-the-badge" alt="Available for Hire" />
+    <img src="https://img.shields.io/badge/Location-Mabinay,%20Negros%20Oriental-blue?style=for-the-badge&logo=googlemaps" alt="Location" />
+  </p>
+
+  ---
+
+  <p align="center">
+    <i>"I architect sophisticated systems that bridge web, mobile, and AI technologies. Specialized in Next.js, React, PHP, VB.NET, and enterprise-grade solutions."</i>
+  </p>
+</div>
+
+## 🚀 About Me
+
+I am a passionate Full-Stack Developer with over **5 years** of experience in building scalable and high-performance digital solutions. Based in the heart of tech innovation in Mabinay, I lead freelance initiatives that bridge the gap between high-performance web applications and robust desktop systems.
+
+- 🎓 **Education**: B.S. Computer Science, Negros Oriental State University (Class of 2025)
+- 🔭 **Current Focus**: Diving deep into **Game Development** & **Advanced UI/UX Design**
+- ⚡ **Passion**: Solving complex architectural challenges and delivering high-impact products.
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Philqt&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" alt="Juphil's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Philqt&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Top Languages" />
+</div>
+
+---
+
+## 🛠️ Tech Stack & Tools
+
+### 🌐 Frontend & Core Languages
+<p align="left">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/VB.NET-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white" alt="VB.NET" />
+</p>
+
+### ⚛️ Frameworks & Libraries
+<p align="left">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+</p>
+
+### 🗄️ Backend & Cloud
+<p align="left">
+  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
+  <img src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white" alt="Firebase" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
+</p>
+
+---
+
+## 🌟 World-Class Projects
+
+| Project | Platform | Key Technologies |
+| :--- | :--- | :--- |
+| **SariHub** | 📱 Mobile | React Native, SQLite, Expo |
+| **StreamPH Portal** | 🌐 Web | Next.js 14, TypeScript, Tailwind |
+| **AI Sleep Detection** | 🤖 AI | HTML5, JS, PHP |
+| **Food Delivery System** | 🌐 Web | PHP, MySQL, Tailwind |
+| **Juice Box Arena** | 💻 Desktop | VB.NET, GDI+, .NET |
+| **Secure Voting System** | 🌐 Web | PHP, MySQL, AJAX |
+
+---
+
+## 📈 Professional Journey
+
+- **2026 - Present**: 🚀 Full-Stack Developer | Building high-performance Next.js apps.
+- **2025**: 🎨 Senior Frontend Engineer | Leading complex UI systems.
+- **2024**: ⚛️ React Developer | Specialized in interactive web apps.
+- **2020 - 2024**: 👨‍💻 Junior Developer | Mastering full-stack fundamentals.
+
+---
+
+## 📫 Connect with Me
+
+<div align="center">
+  <a href="https://facebook.com/juphil.kadusale.3">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+  </a>
+  <a href="mailto:jkdevworkz@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://www.tiktok.com/@jetkodedevworks">
+    <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" />
+  </a>
+</div>
+
+<p align="center">
+  <i>"Crafted with precision. Built with passion. Optimized for performance."</i><br>
+  © 2026 Juphil Kadusale. All rights reserved.
+</p>
