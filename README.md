@@ -81,6 +81,7 @@ Curated selection of production-grade applications demonstrating expertise acros
 *   **StreamPH Mobile APK**
     *   *Dedicated Android application for the StreamPH ecosystem.*
     *   **Tech:** `React Native`, `Expo`, `TypeScript`, `Node.js`
+    *   https://drive.google.com/file/d/1-sXlkn_KokByW3oLFQa5WXwvmDK7SpgD/view
 *   **JK DevWorks Tetris Mobile**
     *   *Full mobile application for Android/iOS featuring classic Tetris logic.*
     *   **Tech:** `React Native`, `Expo`, `Reanimated`, `TypeScript`
@@ -93,6 +94,7 @@ Curated selection of production-grade applications demonstrating expertise acros
 *   **StreamPH Web Portal**
     *   *Professional streaming platform with 1M+ movies and series.*
     *   **Tech:** `Next.js 14`, `TypeScript`, `Tailwind CSS`, `Google AdSense`
+    *   https://streamph-web.vercel.app/
 *   **Multi-Role Food Delivery System**
     *   *Complex logistics system with separate portals for Users, Riders, and Admins.*
     *   **Tech:** `PHP`, `MySQL`, `JavaScript`, `Tailwind CSS`
